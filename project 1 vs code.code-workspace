@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../e-portfolio"
+		},
+		{
+			"path": "../../e-portfolio/.git"
+		},
+		{
+			"path": "../../e-portfolio/.git/hooks"
+		},
+		{
+			"path": "../../e-portfolio/.git/logs"
+		},
+		{
+			"path": "../../e-portfolio/.git/objects"
+		},
+		{
+			"path": "../../e-portfolio/.git/refs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "e-portfolio"
+	}
+}
